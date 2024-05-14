@@ -1,4 +1,4 @@
-### Miroslav Chládek
+# Miroslav Chládek
 Platform Engineer | Zabbix ambassador | Open source nadšenec
 
 ## Rozcestník k užitečným zdrojům 
