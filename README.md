@@ -5,6 +5,11 @@ Platform Engineer | Zabbix ambassador | Open source nadšenec
 ### Zabbix
 ### Docker
 ### Kubernetes
+- https://community.cncf.io/cloud-native-prague/
+### Nástroje
+### Mix
+- https://roadmap.sh/
+
 <!--
 **MiroslavChladek/MiroslavChladek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
