@@ -1,5 +1,10 @@
-### Hi there 👋
+### Miroslav Chládek
+Platform Engineer | Zabbix ambassador | Open source nasšenec
 
+## Rozcestník k užitečným zdrojům 
+### Zabbix
+### Docker
+### Kubernetes
 <!--
 **MiroslavChladek/MiroslavChladek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
